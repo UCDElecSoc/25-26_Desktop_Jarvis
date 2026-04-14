@@ -5,13 +5,6 @@
   <em>An interactive desktop robot that can listen, speak, see, think, display expressions, and act through hardware.</em>
 </p>
 
-<p align="center">
-  <img alt="Platform" src="https://img.shields.io/badge/Platform-Raspberry%20Pi%205-black">
-  <img alt="Status" src="https://img.shields.io/badge/Status-In%20Development-blue">
-  <img alt="Interface" src="https://img.shields.io/badge/Interface-Voice%20%2B%20Vision%20%2B%20Display-success">
-  <img alt="Stack" src="https://img.shields.io/badge/Stack-OpenClaw%20%7C%20Python%20%7C%20Godot-orange">
-</p>
-
 ---
 
 ## Overview
